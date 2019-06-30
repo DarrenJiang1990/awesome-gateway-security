@@ -1,4 +1,4 @@
-
+# spring cloud gateway和spring security 集成的完整入门例子
 # 引言
 
 &emsp;&emsp;由于目前网上大部分spring security的集成都是基于传统的spring servlet机制，而spring cloud gateway 采用webflux作为底层web技术支持，不支持servlet，笔者在集成的过程中走了很多弯路，所以特地写一篇spring cloud gateway和security的集成实践博客，如有错误，欢迎指正。
